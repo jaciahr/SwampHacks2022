@@ -1,0 +1,31 @@
+.display-title{
+    position:absolute;top:25%;left:69%;transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%)
+}
+.high-opacity{
+    opacity:0.80
+}
+
+.grey-blue{
+    color:#4f514b
+}
+
+.white-space-no{
+    white-space: nowrap;
+}
+
+.display-subtext{
+    position:absolute;top:55%;left:75%;transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%)
+}
+
+.subtext-medium{
+    font-size:20px;
+}
+
+.poopy-brown{
+    color:#c78a5b
+}
+
+.rate{
+    position:relative;
+    left:1.6%
+}
