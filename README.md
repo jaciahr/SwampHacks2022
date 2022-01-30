@@ -4,3 +4,7 @@
 
 # SwampHacks2022: 
 Olivia Pinson, Aditya Chandhoke, Jaciah Rashid, Justin
+
+
+## Help
+> Before running the website anywhere, remember to run the python script to create and save the model.
